@@ -1,5 +1,5 @@
 'use strict';
-//all funtions are 0(n)
+//all funtions are O(n)
 class LinkedList {
   constructor(value) {
     this.value = value;
