@@ -1,5 +1,5 @@
-"use strict";
-
+'use strict';
+//all funtions are 0(n)
 class LinkedList {
   constructor(value) {
     this.value = value;
